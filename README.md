@@ -1,7 +1,9 @@
 # TestApp
+
 #### Endpoints:
 1. GitHub: https://api.github.com/users
 2. Daily motion: https://api.dailymotion.com/users?fields=avatar_360_url,username
+
 #### Used:
 * AppCompat
 * RxJava
